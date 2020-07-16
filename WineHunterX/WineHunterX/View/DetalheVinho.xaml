@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:WineHunterX.View"
+             x:Class="WineHunterX.View.DetalheVinho">
+    <ContentPage.Content>
+        <StackLayout Style="{StaticResource Geral}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <StackLayout BackgroundColor="#853643" HeightRequest="100">
+                <StackLayout Orientation="Horizontal" Style="{StaticResource Cabecalho}">
+                    <Button x:Name="VoltarListaInicio" Style="{StaticResource BotaoVoltarInicial}" Clicked="VoltarListaInicioActionAsync" Text="Nova Consulta" />
+                    <Image Aspect="AspectFit" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" HeightRequest="50">
+                        <Image.Source>
+                            <OnPlatform x:TypeArguments="ImageSource">
+                                <On Platform="Android, iOS" Value="wine800px.jpg" />
+                                <On Platform="UWP" Value="Resources/wine800px.jpg" />
+                            </OnPlatform>
+                        </Image.Source>
+                    </Image>
+                    <StackLayout>
+                        <Label Text="Wine-Hunter" FontSize="24" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White" />
+                        <Label Text="Este é seu Vinho" FontSize="16" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+                <Label Text="" x:Name="DataHoje" HorizontalOptions="Start" VerticalOptions="End" TextColor="White" />
+            </StackLayout>
+            <Label x:Name="NomeVinhoEscolhido" Text="{Binding Descricao}" Style="{StaticResource TextoDetalhe}" HorizontalTextAlignment="Center" />
+
+            <Frame BorderColor="LightGoldenrodYellow" BackgroundColor="White" CornerRadius="1" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" HeightRequest="500" WidthRequest="300">
+                <StackLayout Orientation="Vertical">
+                    <!--<local:DetalheVinho>
+                        <local:DetalheVinho.ContainerArea>-->
+                            <Image Aspect="AspectFit" Source="{Binding CaminhoFoto}" 
+                                   x:Name="FotoVinhoEscolhido" 
+                                   HorizontalOptions="FillAndExpand" 
+                                   VerticalOptions="FillAndExpand" 
+                                   MinimumHeightRequest="400" MinimumWidthRequest="300">
+                                <Image.Source>
+                                    <OnPlatform x:TypeArguments="ImageSource">
+                                        <On Platform="Android, iOS" Value="wine800px.jpg" />
+                                        <On Platform="UWP" Value="Resources/wine800px.jpg" />
+                                    </OnPlatform>
+                                </Image.Source>
+                            </Image>
+                        <!--</local:DetalheVinho.ContainerArea>
+                    </local:DetalheVinho>-->
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Classificação:" Style="{StaticResource TextoAvalia}" />
+                        <StackLayout Orientation="Horizontal">
+                            <Image Aspect="AspectFit" Source="{Binding CaminhoFoto}" 
+                                   x:Name="Avalia1" x:Uid="1" HorizontalOptions="FillAndExpand" 
+                                   VerticalOptions="FillAndExpand">
+                                <Image.Source>
+                                    <OnPlatform x:TypeArguments="ImageSource">
+                                        <On Platform="Android, iOS" Value="tacinha.png" />
+                                        <On Platform="UWP" Value="Resources/tacinha.png" />
+                                    </OnPlatform>
+                                </Image.Source>
+                            </Image>
+                            <Image Aspect="AspectFit" Source="{Binding CaminhoFoto}" x:Name="Avalia2" 
+                                   x:Uid="2" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Image.Source>
+                                    <OnPlatform x:TypeArguments="ImageSource">
+                                        <On Platform="Android, iOS" Value="tacinha.png" />
+                                        <On Platform="UWP" Value="Resources/tacinha.png" />
+                                    </OnPlatform>
+                                </Image.Source>
+                            </Image>
+                            <Image Aspect="AspectFit" Source="{Binding CaminhoFoto}" x:Name="Avalia3" x:Uid="3" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Image.Source>
+                                    <OnPlatform x:TypeArguments="ImageSource">
+                                        <On Platform="Android, iOS" Value="tacinha.png" />
+                                        <On Platform="UWP" Value="Resources/tacinha.png" />
+                                    </OnPlatform>
+                                </Image.Source>
+                            </Image>
+                            <Image Aspect="AspectFit" Source="{Binding CaminhoFoto}" x:Name="Avalia4" x:Uid="4" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Image.Source>
+                                    <OnPlatform x:TypeArguments="ImageSource">
+                                        <On Platform="Android, iOS" Value="tacinha.png" />
+                                        <On Platform="UWP" Value="Resources/tacinha.png" />
+                                    </OnPlatform>
+                                </Image.Source>
+                            </Image>
+                            <Image Aspect="AspectFit" Source="{Binding CaminhoFoto}" x:Name="Avalia5" x:Uid="5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Image.Source>
+                                    <OnPlatform x:TypeArguments="ImageSource">
+                                        <On Platform="Android, iOS" Value="tacinha.png" />
+                                        <On Platform="UWP" Value="Resources/tacinha.png" />
+                                    </OnPlatform>
+                                </Image.Source>
+                            </Image>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="ChamarAvaliacaoActionAsync" />
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+                        <Label Text="Clique nas taças e avalie este vinho!" Style="{StaticResource TextoAvalia}" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <ActivityIndicator x:Name="Indicador" Color="LightGoldenrodYellow" 
+                               IsRunning="False" />
+
+            <Image x:Name="ShareImage" Aspect="AspectFit" HorizontalOptions="Center" 
+                   VerticalOptions="Center" HeightRequest="30" Margin="10,10"
+                   WidthRequest="30" BackgroundColor="White">
+                <Image.Source>
+                    <OnPlatform x:TypeArguments="ImageSource">
+                        <On Platform="Android, iOS" Value="share.png" />
+                        <On Platform="UWP" Value="Resources/share.png" />
+                    </OnPlatform>
+                </Image.Source>
+            </Image>
+
+            <Label x:Name="PrecoVinhoEscolhido" FormattedText="{Binding Valor}" Style="{StaticResource TextoDetalhe}" />
+            <Label x:Name="LojaVinhoEscolhido" Text="{Binding Fornecedor}" Style="{StaticResource TextoDetalhe}" />
+            <Label x:Name="LinkVinhoEscolhido" Text="{Binding Link}" Style="{StaticResource TextoDetalhe}" IsVisible="False" />
+            <Button Text="REALIZAR COMPRA" Clicked="GoNavegadorAsync" CommandParameter="{Binding .}" Style="{StaticResource BotaoLogin}" Margin="0,20,0,0" VerticalOptions="EndAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

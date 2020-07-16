@@ -1,0 +1,3 @@
+layout/cropimage.axml;layout/cropimage.xml
+Values/Strings.xml;values/strings.xml
+drawable/rotate_button.png;drawable/rotate_button.png

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:mod="clr-namespace:WineHunterX.Model"
+             x:Class="WineHunterX.View.ListaVinho">
+    <ContentPage.Content>
+        <StackLayout Style="{StaticResource Geral}">
+            <StackLayout BackgroundColor="#853643" HeightRequest="150" >
+                <StackLayout Orientation="Horizontal"  Style="{StaticResource Cabecalho}">
+                    <Image Aspect="AspectFit" HorizontalOptions="CenterAndExpand" VerticalOptions="Start"
+                   HeightRequest="50">
+                        <Image.Source>
+                            <OnPlatform x:TypeArguments="ImageSource">
+                                <On Platform="Android, iOS" Value="wine800px.jpg" />
+                                <On Platform="UWP" Value="Resources/wine800px.jpg" />
+                            </OnPlatform>
+                        </Image.Source>
+                    </Image>
+                    <StackLayout>
+                        <Label Text="Wine-Hunter" FontSize="24"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White" />
+                        <Label Text="Vinhos Encontrados" FontSize="16"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+                <Label Text="" x:Name="DataHoje"
+                       HorizontalOptions="Start"
+                       VerticalOptions="End"
+                       TextColor="White" />
+            </StackLayout>
+            <StackLayout>
+                <Frame BorderColor="Black" CornerRadius="1"
+                   BackgroundColor="LightGoldenrodYellow">
+                    <Label x:Name="PesquisaVinho"
+                       Style="{StaticResource TextoPesquisa}" 
+                        />
+                </Frame>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="VoltarInicialAction" />
+                </StackLayout.GestureRecognizers>
+            </StackLayout>
+            
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="5" Color="Black" />
+
+            <Editor x:Name="htmlEditor" IsVisible="False" />
+
+            <ActivityIndicator x:Name="Indicador" Color="LightGoldenrodYellow" IsRunning="False" />
+            
+            <ScrollView>
+                <ListView x:Name="ListaVinhos" HasUnevenRows="True" ItemSelected="SelecaoVinhoActionAsync"
+                          Style="{StaticResource ListaPesquisa}">
+                    <!--<ListView.ItemsSource>
+                        <x:Array Type="{x:Type mod:VinhoBuscado}">
+                            <mod:VinhoBuscado Id="0" Imagem="Resources/icons8_taca_de_vinho_filled_50.png" Descricao="Goés" />
+                            <mod:VinhoBuscado Id="1" Imagem="Resources/icons8_taca_de_vinho_filled_50.png" Descricao="Saint Germain" />
+                        </x:Array>
+                    </ListView.ItemsSource>-->
+                    
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal" Margin="10" >
+                                    <Label Text="{Binding Id}" IsVisible="False" />
+                                    <Image Source="{Binding Imagem}" Aspect="AspectFit" VerticalOptions="Center"
+                                           HeightRequest="100" WidthRequest="100"/>
+                                    <Label Text="{Binding Descricao}" Style="{StaticResource TextoListaVinhos}" />
+                                    <Button Style="{StaticResource BotaoListaVinhos}"
+                                        Text="Lojas" Clicked="LojasActionAsync" CommandParameter="{Binding .}" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

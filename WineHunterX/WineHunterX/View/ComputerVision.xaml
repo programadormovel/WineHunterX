@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WineHunterX.View.ComputerVision">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout Orientation="Horizontal" 
+                         HorizontalOptions="Center" 
+                         VerticalOptions="Center">
+                    <Image x:Name="MinhaImagem" Aspect="AspectFill" HeightRequest="200" 
+                       WidthRequest="400" HorizontalOptions="CenterAndExpand" />
+                </StackLayout>
+
+                <Button Clicked="TakePicture" Text="Foto"></Button>
+                <Label  x:Name="Resultado" FontAttributes="Bold" FontSize="20"  
+                    HorizontalOptions="CenterAndExpand"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

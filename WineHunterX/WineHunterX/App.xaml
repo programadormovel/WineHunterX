@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WineHunterX.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="Geral" TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="#853643" />
+            </Style>
+            <Style x:Key="Cabecalho" TargetType="StackLayout">
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="Spacing" Value="0" />
+            </Style>
+            <Style x:Key="Conteudo" TargetType="StackLayout">
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="BackgroundColor" Value="#853643" />
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+                <Setter Property="VerticalOptions" Value="FillAndExpand" />
+            </Style>
+            <Style x:Key="Titulo" TargetType="Label">
+                <Setter Property="FontFamily" Value="Sergoe UI" />
+                <Setter Property="TextColor" Value="#FFFFFF" />
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+                <Setter Property="VerticalOptions" Value="FillAndExpand" />
+            </Style>
+            <Style x:Key="TituloApp" TargetType="Label" BasedOn="{StaticResource Titulo}">
+                <Setter Property="BackgroundColor" Value="#853643" />
+                <Setter Property="FontSize" Value="24" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+            <Style x:Key="TextoDetalhe" TargetType="Label" BasedOn="{StaticResource TituloApp}">
+                <Setter Property="BackgroundColor" Value="#853643" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+            </Style>
+            <Style x:Key="TextoAvalia" TargetType="Label" BasedOn="{StaticResource TituloApp}">
+                <Setter Property="BackgroundColor" Value="White" />
+                <Setter Property="TextColor" Value="#853643" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+            </Style>
+            <Style x:Key="SubtituloApp" TargetType="Label" BasedOn="{StaticResource Titulo}">
+                <Setter Property="FontSize" Value="12" />
+            </Style>
+            <Style x:Key="TextoLista" TargetType="Label" BasedOn="{StaticResource Titulo}">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+            <Style x:Key="TextoListaVinhos" TargetType="Label">
+                <Setter Property="HorizontalTextAlignment" Value="Start" />
+                <Setter Property="VerticalTextAlignment" Value="Center" />
+                <Setter Property="HorizontalOptions" Value="StartAndExpand" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="FontFamily" Value="Sergoe UI" />
+            </Style>
+            <Style x:Key="TextoPesquisa" TargetType="Label" BasedOn="{StaticResource Titulo}">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BackgroundColor" Value="LightGoldenrodYellow" />
+            </Style>
+            <Style x:Key="TextoPesquisaLoja" TargetType="Label" BasedOn="{StaticResource TextoPesquisa}">
+                <Setter Property="BackgroundColor" Value="LightGoldenrodYellow" />
+            </Style>
+            
+            <Style x:Key="BotaoApp" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="LightGoldenrodYellow" />
+                <Setter Property="BorderWidth" Value="1" />
+                <Setter Property="BorderColor" Value="#581d22" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="VerticalOptions" Value="FillAndExpand" />
+                <Setter Property="Margin" Value="0,0" />
+
+            </Style>
+            <Style x:Key="BotaoLogin" TargetType="Button" >
+                <Setter Property="VerticalOptions" Value="EndAndExpand" />
+                <Setter Property="BackgroundColor" Value="LightSteelBlue" />
+                <Setter Property="TextColor" Value="#853643" />
+                <Setter Property="BorderColor" Value="#000000" />
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="FontFamily" Value="Sergoe UI"/>
+                <Setter Property="BorderRadius" Value="1"/>
+                
+            </Style>
+            <Style x:Key="BotaoListaVinhos" TargetType="Button">
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="HorizontalOptions" Value="End" />
+                <Setter Property="WidthRequest" Value="100" />
+                <Setter Property="BackgroundColor" Value="LightSkyBlue" />
+                <Setter Property="TextColor" Value="#853643" />
+                <Setter Property="BorderColor" Value="#000000" />
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="FontFamily" Value="Sergoe UI"/>
+            </Style>
+            <Style x:Key="BotaoVoltarInicial" TargetType="Button" BasedOn="{StaticResource BotaoListaVinhos}">
+                <Setter Property="VerticalOptions" Value="Start" />
+                <Setter Property="HorizontalOptions" Value="End" />
+                <Setter Property="TextColor" Value="#853643" />
+                <Setter Property="BorderColor" Value="#000000" />
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="FontFamily" Value="Sergoe UI"/>
+            </Style>
+            <Style x:Key="BotoesIniciais" TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="Transparent" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="VerticalOptions" Value="FillAndExpand" />
+                <Setter Property="Spacing" Value="0" />
+            </Style>
+            <Style x:Key="EntradaPesquisa" TargetType="SearchBar">
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="BackgroundColor" Value="White" />
+                <Setter Property="Placeholder" Value="Encontre aqui seu vinho..." />
+                <Setter Property="PlaceholderColor" Value="LightSkyBlue" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="Opacity" Value="100" />
+            </Style>
+
+            <Style x:Key="ListaPesquisa" TargetType="ListView">
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="BackgroundColor" Value="White" />
+            </Style>
+
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:mod="clr-namespace:WineHunterX.Model"
+             x:Class="WineHunterX.View.ListaInicial">
+    <ContentPage.Content>
+        <StackLayout Style="{StaticResource Geral}">
+
+            <StackLayout Orientation="Horizontal" Style="{StaticResource Cabecalho}">
+                <Image Aspect="AspectFit" HorizontalOptions="CenterAndExpand" 
+                       VerticalOptions="Start"
+                       HeightRequest="50">
+                    <Image.Source>
+                        <OnPlatform x:TypeArguments="ImageSource">
+                            <On Platform="Android, iOS" Value="wine800px.jpg" />
+                            <On Platform="UWP" Value="Resources/wine800px.jpg" />
+                        </OnPlatform>
+                    </Image.Source>
+                </Image>
+                <Label Text="Wine-Hunter" FontSize="24"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White" />
+            </StackLayout>
+            <Label Text="" x:Name="DataHoje"
+                       HorizontalOptions="Start"
+                       VerticalOptions="End"
+                       TextColor="White" />
+
+            <Frame BorderColor="LightGoldenrodYellow" BackgroundColor="White">
+                <StackLayout Orientation="Horizontal">
+                    <Entry x:Name="PesquisaTermo" MinimumWidthRequest="100"
+                       Style="{StaticResource EntradaPesquisa}" 
+                       ReturnType="Search" 
+                       ReturnCommand="{Binding ChamadaDireta}"
+                    />
+                </StackLayout>
+            </Frame>
+
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="5" Color="Black" />
+
+            <ActivityIndicator x:Name="Indicador" Color="LightGoldenrodYellow" IsRunning="False" />
+            <Label x:Name="TermosPesquisados" Text="Termos Pesquisados:"
+                   BackgroundColor="#853643" TextColor="White" />
+            <ScrollView>
+                <ListView x:Name="ListaTermos" HasUnevenRows="True"
+                          ItemSelected="SelecaoTermoActionAsync"
+                          Style="{StaticResource ListaPesquisa}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal" Margin="10" >
+                                    <Label Text="{Binding Descricao}" Style="{StaticResource TextoLista}" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ScrollView>
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="BtnPesquisaTermo" BorderRadius="50"
+                            Clicked="PesquisarButtonAsync" >
+                    <Button.Image>
+                        <OnPlatform x:TypeArguments="FileImageSource"
+                                iOS="icons8_pesquisar_40.png" 
+                                WinPhone="Resources/icons8_pesquisar_40.png"
+                                Android="icons8_pesquisar_40.png" />
+                    </Button.Image>
+                </Button>
+
+                <!--<Button x:Name="BtnScannerTermo" BorderRadius="50"
+                            Clicked="ScannerButtonAsync" >
+                        <Button.Image>
+                            <OnPlatform x:TypeArguments="FileImageSource"
+                                iOS="barcode50.png" 
+                                WinPhone="Resources/barcode50.png"
+                                Android="barcode50.png" />
+                        </Button.Image>
+                    </Button>-->
+
+                <Button x:Name="BtnFotoTermo" BorderRadius="50"
+                            Clicked="FotoButtonAsync" >
+                    <Button.Image>
+                        <OnPlatform x:TypeArguments="FileImageSource"
+                                iOS="icons8_camera_compacta_50.png" 
+                                WinPhone="Resources/icons8_camera_compacta_50.png"
+                                Android="icons8_camera_compacta_50.png" />
+                    </Button.Image>
+                </Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

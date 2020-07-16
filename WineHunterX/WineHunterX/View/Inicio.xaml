@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WineHunterX.View.Inicio">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Style="{StaticResource Geral}">
+                <StackLayout Style="{StaticResource Cabecalho}">
+                    <Label Text="WINE-HUNTER" Style="{StaticResource TituloApp}" />
+                    <Label Text="Encontre seu Vinho" Style="{StaticResource SubtituloApp}" />
+                </StackLayout>
+                <StackLayout Style="{StaticResource Conteudo}">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="Auto"></RowDefinition>
+
+                        </Grid.RowDefinitions>
+
+                        <Image Grid.Row="0" Grid.Column="0"  Aspect="AspectFit"
+                           Grid.ColumnSpan="2" Grid.RowSpan="3"
+                           HorizontalOptions="CenterAndExpand"
+                               x:Name="MinhaImagem"
+                           VerticalOptions="Start">
+                            <Image.Source>
+                                <OnPlatform x:TypeArguments="ImageSource">
+                                    <On Platform="Android, iOS" Value="wine800px.jpg" />
+                                    <On Platform="UWP" Value="Resources/wine800px.jpg" />
+                                </OnPlatform>
+                            </Image.Source>
+                        </Image>
+                        <StackLayout Grid.ColumnSpan="2" Style="{StaticResource BotoesIniciais}"
+                            Grid.Row="1" Grid.Column="0" >
+                            <StackLayout Orientation="Horizontal" >
+                                <Button Image="icons8_pesquisar_80.png" BorderRadius="1"
+                                    Style="{StaticResource BotaoApp}" Clicked="IrListaInicial"
+                                    x:Name="IrListaInicialButton" />
+                                <!--<Button Image="barcode50.png"
+                                    Style="{StaticResource BotaoApp}" BorderRadius="1"
+                                    x:Name="BtnScanner" Clicked="OpenScannerAsync" />-->
+                            </StackLayout>
+                            
+                            <!--<StackLayout Orientation="Horizontal" >
+                                <Button Image="icons8_camera_compacta_50.png"
+                                    Style="{StaticResource BotaoApp}" BorderRadius="1"
+                                    IsVisible="True" BackgroundColor="LightSkyBlue"
+                                    x:Name="CapturarFoto" Clicked="CapturarFoto_OnClicked" />
+                                <Button Image="galeria.png" 
+                                    x:Name="CarregarFoto" 
+                                    Clicked="CarregarFoto_OnClicked"
+                                    IsVisible="True" BackgroundColor="LightSkyBlue"
+                                Style="{StaticResource BotaoApp}" BorderRadius="1"/>
+                            </StackLayout>-->
+
+                            <StackLayout Orientation="Horizontal" >
+                                <Button Image="icons8_camera_compacta_50.png"
+                                    Style="{StaticResource BotaoApp}" BorderRadius="1"
+                                    IsVisible="True" BackgroundColor="LightSkyBlue"
+                                    x:Name="SamplePageButton" Clicked="SamplePage_OnClickedAsync" />
+                                
+                            </StackLayout>
+
+                            <Image x:Name="pictureBox" />
+
+                            <Label HorizontalOptions="Center" x:Name="TextLabel" 
+                                 Style="{StaticResource TituloApp}"/>
+                            <Label HorizontalOptions="Center" x:Name="ProgressLabel"
+                                Style="{StaticResource TituloApp}"/>
+                        </StackLayout>
+                        <ActivityIndicator x:Name="activityIndicator" Color="Blue" />
+                        <ActivityIndicator x:Name="Indicador" Color="LightGoldenrodYellow" IsRunning="False" />
+
+                        <Button Text="Entre com sua conta Google" x:Name="GoogleButton"
+                                Style="{StaticResource BotaoLogin}"
+                            Grid.Row="2" Grid.Column="0" Margin="0,20,0,0" />
+                        <Button Text="Entre com seu email" x:Name="UserButton"
+                                Style="{StaticResource BotaoLogin}"
+                            Grid.Row="2" Grid.Column="1" Margin="0,20,0,0" />
+
+                    </Grid>
+                </StackLayout>
+            </StackLayout>
+            
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

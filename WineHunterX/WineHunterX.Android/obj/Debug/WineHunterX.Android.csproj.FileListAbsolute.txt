@@ -1,0 +1,538 @@
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.dll
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\com.companyname.WineHunterX.apk
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\com.companyname.WineHunterX-Signed.apk
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.dll
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csprojAssemblyReference.cache
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csproj.CoreCompileInputs.cache
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csproj.CopyComplete
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.dll
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\bin\com.companyname.WineHunterX.apk
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\tabbar.xml
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\toolbar.xml
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\values\styles.xml
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\values\colors.xml
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_direita_64.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_divisa_circulada_a_direita_48.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_40.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_64.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_80.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_taca_de_vinho_64.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_taca_de_vinho_filled_50.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\vinho_vermelho_de_derramamento_23_2147510336.jpg
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine.jpg
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine_theme_438246_960_720.jpg
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine_theme_textures_backgrounds_background_tender_2894.jpg
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine800px.jpg
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\banner_fieb_belval.jpg
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_launcher.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_add.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_back.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_more.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_sort_by_size.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_adicionar_o_carrinho_de_compras_40.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_avancar_48.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_avancar_64.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_camera_compacta_50.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_comida_e_vinho_48.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_detetive_64.png
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\R.cs.flag
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\R.txt
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\uploadflags.txt
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Security.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\mscorlib.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Data.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.IO.Compression.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Net.Http.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Numerics.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Transactions.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Web.Services.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Xml.Linq.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\System.Xml.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\WineHunterX.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Data.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\WineHunterX.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Data.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.dll
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\com.companyname.WineHunterX.apk
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\com.companyname.WineHunterX-Signed.apk
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.dll
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csprojAssemblyReference.cache
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csproj.CoreCompileInputs.cache
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\XamlC.stamp
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csproj.CopyComplete
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.dll
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\bin\com.companyname.WineHunterX.apk
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\tabbar.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\toolbar.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\values\styles.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\values\colors.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_direita_64.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_divisa_circulada_a_direita_48.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_40.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_64.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_80.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_taca_de_vinho_64.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_taca_de_vinho_filled_50.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\vinho_vermelho_de_derramamento_23_2147510336.jpg
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine.jpg
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine_theme_438246_960_720.jpg
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine_theme_textures_backgrounds_background_tender_2894.jpg
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine800px.jpg
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_launcher.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_add.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_back.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_more.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_sort_by_size.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_adicionar_o_carrinho_de_compras_40.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_avancar_48.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_avancar_64.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_camera_compacta_50.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_comida_e_vinho_48.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_detetive_64.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\xml\file_paths.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\rotate_button.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\gallery_880815_960_720.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\barcode_306926_960_720.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\qr_code_2816041_960_720.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\galeria_50.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\galeria_48.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\galeria.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\galeria.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\galeria.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\galeria.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\galeria.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\taca_preta.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\taca_preta.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\taca_preta.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\taca_preta.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\taca_preta.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\barcode.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\barcode.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\barcode.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\barcode.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\barcode.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\tacinha.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\tacinha.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\tacinha.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\tacinha.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\tacinha.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\cropimage.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\camera_crop_width.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\camera_crop_height.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\R.cs.flag
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\R.txt
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\uploadflags.txt
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Forms.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Forms.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Svg.Forms.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Svg.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Transformations.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Android.Export.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\mscorlib.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\SQLite-net.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Xml.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Xml.Linq.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Net.Http.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Data.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Numerics.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Transactions.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.IO.Compression.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Web.Services.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Security.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Forms.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Svg.Forms.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Svg.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Transformations.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Android.Export.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\mscorlib.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Connectivity.Abstractions.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\SQLite-net.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Xml.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Net.Http.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Data.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Numerics.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Transactions.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Web.Services.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Security.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarians.CropImage.Droid.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\WineHunterX.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarians.CropImage.Droid.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\WineHunterX.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarians.CropImage.Droid.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Forms.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Svg.Forms.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Svg.Platform.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Transformations.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Android.Export.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Security.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\mscorlib.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\SQLite-net.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Data.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Net.Http.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Numerics.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Transactions.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Web.Services.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\tacinha_vazia.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\tacinha_vazia.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\tacinha_vazia.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\tacinha_vazia.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\tacinha_vazia.png
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\barcode50.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.dll
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\com.companyname.WineHunterX.apk
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\com.companyname.WineHunterX-Signed.apk
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.dll
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csprojAssemblyReference.cache
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csproj.CoreCompileInputs.cache
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\XamlC.stamp
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.csproj.CopyComplete
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.dll
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\WineHunterX.Android.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\bin\com.companyname.WineHunterX.apk
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\tabbar.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\toolbar.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\values\styles.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\values\colors.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_direita_64.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_divisa_circulada_a_direita_48.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_40.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_64.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_pesquisar_80.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_taca_de_vinho_64.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_taca_de_vinho_filled_50.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\vinho_vermelho_de_derramamento_23_2147510336.jpg
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine.jpg
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine_theme_438246_960_720.jpg
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine_theme_textures_backgrounds_background_tender_2894.jpg
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\wine800px.jpg
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_launcher.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_add.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_back.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_more.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\ic_menu_sort_by_size.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_adicionar_o_carrinho_de_compras_40.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_avancar_48.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_avancar_64.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_camera_compacta_50.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_comida_e_vinho_48.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\icons8_detetive_64.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\xml\file_paths.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\rotate_button.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\gallery_880815_960_720.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\barcode_306926_960_720.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\qr_code_2816041_960_720.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\galeria_50.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\galeria_48.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\galeria.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\galeria.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\galeria.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\galeria.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\galeria.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\taca_preta.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\taca_preta.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\taca_preta.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\taca_preta.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\taca_preta.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\barcode.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\barcode.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\barcode.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\barcode.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\barcode.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\tacinha.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\tacinha.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\tacinha.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\tacinha.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\tacinha.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\layout\cropimage.xml
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\camera_crop_width.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\camera_crop_height.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxxhdpi\tacinha_vazia.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\tacinha_vazia.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-hdpi\tacinha_vazia.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xhdpi\tacinha_vazia.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable-xxhdpi\tacinha_vazia.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\barcode50.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\R.cs.flag
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\R.txt
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\uploadflags.txt
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Forms.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Svg.Forms.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Svg.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FFImageLoading.Transformations.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Android.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Android.Export.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\mscorlib.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Plugin.Share.Abstractions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\SQLite-net.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Core.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.IO.Compression.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Net.Http.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Xml.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Xml.Linq.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Data.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Numerics.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Transactions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\System.Web.Services.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Mono.Security.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Forms.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Svg.Forms.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Svg.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FFImageLoading.Transformations.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Connectivity.Abstractions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Share.Abstractions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Core.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\WineHunterX.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Data.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Plugin.Share.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarians.CropImage.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\WineHunterX.Android.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Share.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarians.CropImage.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Plugin.Share.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\WineHunterX.Android.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarians.CropImage.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Forms.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Svg.Forms.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Svg.Platform.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\FFImageLoading.Transformations.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Plugin.Share.Abstractions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\SQLite-net.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Core.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Data.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\WineHunterX.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\share.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\res\drawable\tacinhav3.png
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\Microsoft.CSharp.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\bin\Debug\WineHunterX.Android.dll
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\WineHunterX.Android.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Plugin.Share.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarians.CropImage.Droid.dll.mdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

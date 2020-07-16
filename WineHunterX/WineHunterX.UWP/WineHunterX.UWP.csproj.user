@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppIconSource>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</AppIconSource>
+    <PackageLogoSource>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</PackageLogoSource>
+    <Source>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</Source>
+    <SmallTileSource>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</SmallTileSource>
+    <MediumTileSource>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</MediumTileSource>
+    <WideTileSource>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</WideTileSource>
+    <LargeTileSource>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</LargeTileSource>
+    <SplashScreenSource>D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX.UWP\Resources\icons8_taca_de_vinho_64_vanilla.png</SplashScreenSource>
+  </PropertyGroup>
+</Project>

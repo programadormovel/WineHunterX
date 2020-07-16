@@ -1,0 +1,61 @@
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.deps.json
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.dll
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.csprojAssemblyReference.cache
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.csproj.CoreCompileInputs.cache
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.AssemblyInfoInputs.cache
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.AssemblyInfo.cs
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.dll
+D:\MOTOR\buscarvinho\WineHunterX - bkp - 04-06-18\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.deps.json
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.dll
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.csprojAssemblyReference.cache
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ConsultaVinhoOCR.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\DetalheVinho.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\Inicio.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ListaInicial.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ListaLoja.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ListaVinho.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\PesquisaFoto.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\PopupView.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\SamplePage.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ScannerBarCode.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\WebViewLoja.xaml.g.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.csproj.CoreCompileInputs.cache
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.AssemblyInfoInputs.cache
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.AssemblyInfo.cs
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.csproj.CopyComplete
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.dll
+D:\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.deps.json
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.dll
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\bin\Debug\netstandard2.0\WineHunterX.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.csprojAssemblyReference.cache
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ConsultaVinhoOCR.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\DetalheVinho.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\HomePage.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\Inicio.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ListaInicial.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ListaLoja.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ListaVinho.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\OCRIOS.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\PesquisaFoto.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\PopupView.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\SamplePage.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ScannerBarCode.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\WebViewLoja.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.csproj.CoreCompileInputs.cache
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.AssemblyInfoInputs.cache
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.AssemblyInfo.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.dll
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\WineHunterX.pdb
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\ComputerVision.xaml.g.cs
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DOMTEC\MOTOR\buscarvinho\WineHunterX\WineHunterX\WineHunterX\obj\Debug\netstandard2.0\View\CV2.xaml.g.cs

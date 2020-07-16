@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WineHunterX.View.WebViewLoja">
+    <ContentPage.Content>
+
+        <StackLayout Style="{StaticResource Geral}" HorizontalOptions="FillAndExpand"
+                     Orientation="Vertical">
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Button x:Name="VoltarListaInicio" Style="{StaticResource BotaoVoltarInicial}"
+                        Clicked="VoltarListaInicioActionAsync" 
+                        Text="Nova Consulta"/>
+                <Button Text="Próximo" Clicked="GoPagina" 
+                        WidthRequest="50" VerticalOptions="EndAndExpand"
+                        Style="{StaticResource BotaoListaVinhos}"/>
+                <Button Text="Voltar" Clicked="GoVoltar" 
+                        WidthRequest="50" VerticalOptions="EndAndExpand"
+                        Style="{StaticResource BotaoListaVinhos}" />
+                 <Button Text="OK" Clicked="GoPagina"
+                        WidthRequest="50" VerticalOptions="EndAndExpand"
+                        Style="{StaticResource BotaoListaVinhos}" />
+            </StackLayout>
+    
+            <Entry x:Name="EnderecoSite" HorizontalOptions="FillAndExpand"
+                        HeightRequest="50"
+                        />
+            <ActivityIndicator x:Name="Indicador" Color="LightGoldenrodYellow" IsRunning="False" />
+            <WebView
+                x:Name="Navegador"
+                Source="https://www.google.com.br"
+                Navigated="ActionCarregando"
+                Navigating="ActionCarregado"
+                
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                MinimumWidthRequest="200"
+                MinimumHeightRequest="350"
+                >
+            </WebView>
+            <Label x:Name="LblStatus" TextColor="LightGoldenrodYellow" />
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
